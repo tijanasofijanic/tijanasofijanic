@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**tijanasofijanic/tijanasofijanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Tijana Sofijanić** 🌟  
 
-Here are some ideas to get you started:
+### 💻 **About me**
+I am a dedicated Web and Software Developer with experience in:
+- Building responsive websites using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL.
+- Developing WPF applications in C# for desktop solutions.
+- Teaching programming to children, inspiring them to explore coding and technology.
+#### I am passionate about creating efficient, user-friendly solutions and sharing knowledge with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+- 📧 **Email:** <a href="mailto:sofijanictijana9@gmail.com">sofijanictijana9@gmail.com</a>
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/tijana-sofijanic"> Tijana Sofijanić</a>
