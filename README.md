@@ -11,4 +11,4 @@ I am a dedicated Web and Software Developer with experience in:
 #### I am passionate about creating efficient, user-friendly solutions and sharing knowledge with others.
 ---
 - 📧 **Email:** <a href="mailto:sofijanictijana9@gmail.com"> sofijanictijana9@gmail.com</a>
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/tijanasofijanic/">Tijana Sofijanić</a>
+- 💼 **LinkedIn:** <a href="[https://www.linkedin.com/in/tijanasofijanic/](https://www.linkedin.com/in/tijana-sofijanic/)">Tijana Sofijanić</a>
